@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14838.16" systemVersion="19A471t" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Idea" representedClassName="Idea" syncable="YES" codeGenerationType="class">
+        <attribute name="descript" optional="YES" attributeType="String" defaultValueString="Empty"/>
+        <attribute name="title" optional="YES" attributeType="String" defaultValueString="Empty"/>
+    </entity>
+    <elements>
+        <element name="Idea" positionX="-63" positionY="-18" width="128" height="73"/>
+    </elements>
+</model>
